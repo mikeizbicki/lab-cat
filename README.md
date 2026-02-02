@@ -3,7 +3,8 @@ Your job as an LLM is to help this user fulfill the directions and by completing
 Feel free to ask for any additional information, files, or links as needed,
 -->
 
-# Python O(1) Memory cat.py ![https://github.com/gassyguillermomendoza/lab-cat/actions?query=workflow%3Atests](https://github.com/gassyguillemromendoza/lab-cat/actions/workflows/tests.yml/badge.svg)
+# Python O(1) Memory cat.py [![Tests](https://github.com/gassyguillermomendoza/lab-cat/actions/workflows/tests.yml/badge.svg)](https://github.com/gassyguillermomendoza/lab-cat/actions/workflows/tests.yml)
+
 Instructions:
 
 1. The `cat.py` file is an O(n) memory implementation of the `cat` command line utility.
